@@ -1,2 +1,2 @@
 # Python
-## Learning Advanced Python by Studying Open Source Projects
+## Python by Studying Open Source Projects
